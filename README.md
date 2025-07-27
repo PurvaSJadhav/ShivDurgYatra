@@ -25,14 +25,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Home Page 1 | Home Page 1 | Home Page 1 | Home Page 1 |
-|----------|------------|------------------|
-| ![Home](images/home1.png) | ![Home](images/home2.png) | ![Home](images/home3.png) | ![Home](images/home4.png) |
-
----
-
 ## 🚀 How to View Locally
 
 1. **Install [XAMPP](https://www.apachefriends.org/index.html)**
@@ -49,6 +41,31 @@
 - Customized the look and feel using Elementor and Love Nature.
 - Worked with plugins like Astra to enhance user experience and site performance.
 - Gained hands-on experience with local development using XAMPP and WordPress.
+
+---
+
+## 📸 Screenshots
+
+| Home Page |
+ ![Home](images/home1.png) 
+ ![Home](images/home2.png) 
+ ![Home](images/home3.png) 
+ ![Home](images/home4.png) 
+
+| About Page |
+ ![About](images/about1.png) 
+ ![About](images/about2.png) 
+ ![About](images/about3.png) 
+
+| Blogs Page |
+ ![Blogs](images/blogs1.png) 
+ ![Blogs](images/blogs2.png) 
+ ![Blogs](images/blogs3.png) 
+ ![Blogs](images/blogs4.png) 
+
+| Contact Page |
+ ![Contact](images/contact1.png) 
+ ![Contact](images/contact2.png) 
 
 ---
 
