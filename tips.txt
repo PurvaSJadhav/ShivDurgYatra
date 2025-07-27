@@ -1,0 +1,3 @@
+username: admin
+password: $o@ZgmzT1yAPp$6^Hq
+db name: shivDurgyatra
